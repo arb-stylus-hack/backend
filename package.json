@@ -1,0 +1,19 @@
+{
+  "name": "stylus_hackathon_riot_api",
+  "version": "1.0.0",
+  "description": "API middleware to validate a winner or not based on tagline and gameid",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Andrei D.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
